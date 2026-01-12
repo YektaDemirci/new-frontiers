@@ -1,0 +1,97 @@
+@import "../../../utils/widthPicker"
+@import "../../../utils/colorPalette"
+
+$transparency: 0.85
+$navbar-color: rgba(27, 27, 27, $transparency)
+
+.topNavExpand
+  padding-top: 10px
+  padding-bottom: 5px
+
+.topNavCollapse
+  backdrop-filter: blur(10px)
+
+.customNavbar
+  transition: background .2s ease .1s, padding .5s ease
+  position: fixed
+  width: 100%
+  z-index: 1000
+
+.whiteLink
+  color: $pale-grey
+  font-family: 'Montserrat', sans-serif
+  font-weight: 600
+  font-size: 1.1em
+  letter-spacing: 0.03em
+  transition: color .3s ease-in-out
+  +screen(small)
+    padding-left: 2px
+    font-size: 1em
+  &:hover
+    color: $white
+
+.brandContainer
+  padding: 5px 0 5px 16px
+  +screen(small)
+    padding: 3px 0 3px 0
+
+.brand
+  height: 60px
+  &:hover
+    color: $white
+  +screen(small)
+    height: 40px
+
+.navbarFlagLarge
+  display: flex,
+  justifyContent: flex-end
+  alignItems: center
+  +screen(lessThanMedium)
+    display: none
+
+.navbarFlagSmall
+  display: flex,
+  justifyContent: flex-end
+  alignItems: center
+  +screen(greaterThanMedium)
+    display: none
+
+.navbarToggle
+  +screen(greaterThanMedium)
+    display: none
+
+.navbarContainer
+  display: flex
+  align-items: center
+  justify-content: space-between
+  +screen(lessThanMedium)
+    display: block
+
+.mobileNavbar
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+.navbarLinks
+  display: flex
+  transition: max-height .2s ease-in-out
+  overflow: hidden
+  +screen(lessThanMedium)
+    display: block
+
+.mobileNavbarLinksCollapsed
+  +screen(lessThanMedium)
+    max-height: 0
+
+.mobileNavbarLinksExpanded
+  +screen(lessThanMedium)
+    max-height: 300px
+
+// Responsive flag images in navbar
+.navbarLinks img,
+.mobileNavbarLinksExpanded img
+  max-height: 1.4em
+  height: auto
+  width: auto
+  vertical-align: middle
+  display: inline-block

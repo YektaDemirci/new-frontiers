@@ -1,0 +1,15 @@
+{
+  "landingReference": "landing",
+  "items": [
+    {
+      "title": "FlagFR",
+      "reference": "flag2",
+      "icon": "/images/flags/FRR.png"
+    },
+    {
+      "title": "FlagENG",
+      "reference": "flag1",
+      "icon": "/images/flags/ENN.png"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "START HERE",
+  "subtitle": "Your Gateway to New Space Research & Beyond",
+  "sections": [
+    {
+      "id": "new-space",
+      "title": "What is New Space?",
+      "icon": "🚀",
+      "description": "New Space defines an exploration shift: private sector involvement driving reusability and rapid innovation.",
+      "subsections": [
+        {
+          "title": "🍁 Canada in New Space",
+          "description": "How Canada is Embracing the New Space Revolution",
+          "links": [
+            {
+              "text": "Space Canada Intitiative",
+              "url": "https://space-canada.ca/team"
+            },
+            {
+              "text": "Canadian Space Agency",
+              "url": "https://www.asc-csa.gc.ca/eng/"
+            }
+          ]
+        },
+                {
+          "title": " 🌎 New Space around the World",
+          "description": "How strategic global players view the New Space sector",
+          "links": [
+            {
+              "text": "New Space by NASA",
+              "url": "https://www.earthdata.nasa.gov/s3fs-public/2023-11/newspace_nasa.pdf"
+            },
+            {
+              "text": "Explore New Space at ESA",
+              "url": "https://www.esa.int/About_Us/Business_with_ESA/Global_Space_Economic_Forum/New_Space_and_the_role_of_public_support"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research-skills",
+      "title": "Research Fundamentals",
+      "icon": "📚",
+      "description": "Essential skills for conducting effective research in aerospace",
+      "subsections": [
+        {
+          "title": "Basics of Research",
+          "description": "A systematic approach to finding, reading and understanding academic articles",
+          "links": [
+            {
+              "text": "Finding Academical Articles Effectively",
+              "url": "https://libguides.biblio.polymtl.ca/finding_scientific_articles"
+            },
+            {
+              "text": "How to Read an Academical Article",
+              "url": "https://dl.acm.org/doi/pdf/10.1145/1273445.1273458"
+            }
+          ]
+        },
+        {
+          "title": "Academic Writing and Managing References",
+          "description": "Tips for writing clear and impactful research articles",
+          "links": [
+            {
+              "text": "Writing academical articles",
+              "url": "https://www.uottawa.ca/study/academic-support-mentoring/academic-writing-help/structure-paper"
+            },
+            {
+              "text": "Managing References",
+              "url": "https://libguides.biblio.polymtl.ca/reference_management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spacecom-courses",
+      "title": "New Student Resources",
+      "icon": "🌱",
+      "description": "Guide for new students and satellite communications learners",
+      "subsections": [
+        {
+          "title": "Newcomers to Polytechnique Montreal",
+          "description": "Grad Students must have a study plan approved in their first semester \n PhD students must take CAP courses before the comprehensive exam",
+          "links": [
+            {
+              "text": "Study Plans and Course Selection",
+              "url": "https://etudiant.polymtl.ca/etudes/en/graduate-studies/study-plan"
+            },
+            {
+              "text": "CAP courses",
+              "url": "https://etudiant.polymtl.ca/etudes/en/graduate-studies/complementary-training-cap"
+            },
+            {
+              "text": "Comprehensive Exam Guidelines",
+              "url": "https://etudiant.polymtl.ca/etudes/en/graduate-studies/comprehensive-exam"
+            }
+          ]
+        },
+        {
+          "title": "Communication Systems",
+          "description": "Deep dive into satellite communication technologies",
+          "links": [
+            {
+              "text": "Wireless Communication Fundamentals",
+              "url": "https://web.stanford.edu/~dntse/wireless_book.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "landingReference": "landing",
+  "items": [
+    {
+      "title": "START HERE",
+      "href": "/start"
+    },
+    {
+      "title":"PEOPLE",
+      "href": "/people"
+    },
+    {
+      "title":"PUBLICATIONS",
+      "href": "/publications"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+name: Update Publications
+
+on:
+  schedule:
+    # Run every Sunday at 2 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Fetch publications from Google Scholar
+        run: python3 scripts/fetchPublications.py
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code data/publications.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/publications.json
+          git commit -m "chore: update publications from Google Scholar [skip ci]"
+          git push
+      
+      - name: Create Pull Request (alternative)
+        if: steps.git-check.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: update publications from Google Scholar'
+          title: 'Update Publications from Google Scholar'
+          body: |
+            Auto-generated PR to update publications data from Google Scholar.
+            
+            This PR was automatically created by the scheduled GitHub Action.
+            
+            Please review the changes before merging.
+          branch: auto-update-publications
+          delete-branch: true

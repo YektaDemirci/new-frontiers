@@ -1,0 +1,1337 @@
+{
+  "publicationList": [
+    {
+      "title": "Visibility-Aware User Association and Resource Allocation in Multi-Slice LEO Satellite Networks",
+      "venue": "IEEE Transactions on Network and Service Management, 2025",
+      "authors": [
+        "M Mahyoub",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt",
+        "S Martel"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:W2uZP3ddy8sC",
+      "type": "journal"
+    },
+    {
+      "title": "A User Centric Group Authentication Scheme for Secure Communication",
+      "venue": "arXiv preprint arXiv:2512.03551, 2025",
+      "authors": [
+        "O Gerenli",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:sbeIDTyQOFgC",
+      "type": "preprint"
+    },
+    {
+      "title": "On the role of communications for space domain awareness",
+      "venue": "Journal of Aerospace Information Systems 22 (12), 1020-1031, 2025",
+      "authors": [
+        "NG Gordon",
+        "N Benchoubane",
+        "G Karabulut Kurt",
+        "G Falco"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:nPTYJWkExTIC",
+      "type": "journal"
+    },
+    {
+      "title": "Connectivity-Aware Task Offloading for Remote Northern Regions: a Hybrid LEO-MEO Architecture",
+      "venue": "arXiv preprint arXiv:2511.19369, 2025",
+      "authors": [
+        "M Almekhlafi",
+        "A Lesage-Landry",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:hHIA4WEVY-EC",
+      "type": "preprint"
+    },
+    {
+      "title": "Joint Satellite Power Consumption and Handover Optimization for LEO Constellations",
+      "venue": "2025 IEEE International Conference on Wireless for Space and Extreme …, 2025",
+      "authors": [
+        "Y Afif",
+        "M Almekhlafi",
+        "A Lesage-Landry",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:txeM2kYbVNMC",
+      "type": "conference"
+    },
+    {
+      "title": "Modeling the Doppler Shift in Cislunar Environment with Gaussian Mixture Models",
+      "venue": "2025 IEEE International Conference on Wireless for Space and Extreme …, 2025",
+      "authors": [
+        "B Donmez",
+        "S Loranger",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:NtCmTCuxid4C",
+      "type": "conference"
+    },
+    {
+      "title": "PIKAN: Physics-Inspired Kolmogorov-Arnold Networks for Explainable UAV Channel Modelling",
+      "venue": "arXiv preprint arXiv:2510.06355, 2025",
+      "authors": [
+        "K Tekbıyık",
+        "G Karabulut Kurt",
+        "A Lesage-Landry"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:GYcXSSpN504C",
+      "type": "preprint"
+    },
+    {
+      "title": "Lightweight Group Handover for Uncrewed Aerial Vehicles (UAVs)",
+      "venue": "2025 IEEE 22nd International Conference on Mobile Ad-Hoc and Smart Systems …, 2025",
+      "authors": [
+        "O Gerenli",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:X4-KO54GjGYC",
+      "type": "conference"
+    },
+    {
+      "title": "Leveraging orbital dynamics with RF signal features for satellite multi-orbit proximity threat detection",
+      "venue": "IET Conference Proceedings CP950 2025 (31), 137-144, 2025",
+      "authors": [
+        "A Boumeftah",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:v_tt_AnqfNMC",
+      "type": "conference"
+    },
+    {
+      "title": "Forecasting Self-Similar User Traffic Demand Using Transformers in LEO Satellite Networks",
+      "venue": "arXiv preprint arXiv:2509.10917, 2025",
+      "authors": [
+        "Y Demirci",
+        "G Mantelet",
+        "S Martel",
+        "JF Frigon",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:Kqc1aDSOPooC",
+      "type": "preprint"
+    },
+    {
+      "title": "Fortifying the Backbone: Shielding HAPS Backhaul From Intelligent Jamming",
+      "venue": "IEEE Open Journal of the Communications Society, 2025",
+      "authors": [
+        "X Kodheli",
+        "A Bendaimi",
+        "MSJ Solaija",
+        "G Karabulut Kurt",
+        "H Arslan"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:idthP5jqfYAC",
+      "type": "journal"
+    },
+    {
+      "title": "Design Considerations of OFDM Waveform for Millimeter-Wave Integrated Communication and Long-Range Sensing in High Mobility Channels",
+      "venue": "IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation, 2025",
+      "authors": [
+        "SE Banialhosseini",
+        "G Karabulut Kurt",
+        "K Wu"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:q0uBw5dMOAkC",
+      "type": "journal"
+    },
+    {
+      "title": "Green Traffic Engineering for Satellite Networks Using Segment Routing Flexible Algorithm",
+      "venue": "arXiv preprint arXiv:2509.02149, 2025",
+      "authors": [
+        "J Liang",
+        "PG Madoery",
+        "CH Lung",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:as0KMg8qHbkC",
+      "type": "preprint"
+    },
+    {
+      "title": "Dynamic Activation and Assignment of SDN Controllers in LEO Satellite Constellations",
+      "venue": "2025 IEEE 36th International Symposium on Personal, Indoor and Mobile Radio …, 2025",
+      "authors": [
+        "Wafa Hasanain",
+        "Pablo G Madoery",
+        "Halim Yanikomeroglu",
+        "Gunes Karabulut Kurt",
+        "Sameera Siddiqui",
+        "Stephane Martel",
+        "Khaled Ahmed",
+        "Colin Bellinger"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:vVJNg6_NJEsC",
+      "type": "conference"
+    },
+    {
+      "title": "DSROQ: Dynamic Scheduling and Routing for QoE Management in LEO Satellite Networks",
+      "venue": "arXiv preprint arXiv:2508.21047, 2025",
+      "authors": [
+        "Dhiraj Bhattacharjee",
+        "Pablo G Madoery",
+        "Abhishek Naik",
+        "Halim Yanikomeroglu",
+        "Gunes Karabulut Kurt",
+        "Stephane Martel",
+        "Khaled Ahmed"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:uUvzmPk0f8oC",
+      "type": "preprint"
+    },
+    {
+      "title": "Securing Heterogeneous Network (HetNet) Communications for Wildfire Management: Mitigating the Effects of Adversarial and Environmental Threats",
+      "venue": "IEEE Journal of Radio Frequency Identification, 2025",
+      "authors": [
+        "Nesrine Benchoubane",
+        "Olfa Ben Yahia",
+        "William Ferguson",
+        "Gürkan Gür",
+        "Sumit Chakravarty",
+        "Gregory Falco",
+        "Gunes Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:XAp-VaTZjjwC",
+      "type": "journal"
+    },
+    {
+      "title": "Cyber Physical Awareness via Intent-Driven Threat Assessment: Enhanced Space Networks with Intershell Links",
+      "venue": "arXiv e-prints, arXiv: 2508.16314, 2025",
+      "authors": [
+        "S Gecgel Cetin",
+        "T Ovatman",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:RXiHnyRawswC",
+      "type": "preprint"
+    },
+    {
+      "title": "Cyber Physical Awareness via Intent-Driven Threat Assessment: Enhanced Space Networks with Intershell Links",
+      "venue": "IEEE Wireless Communications Letters, 2025",
+      "authors": [
+        "SG Cetin",
+        "T Ovatman",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:JH5k92_tO-AC",
+      "type": "journal"
+    },
+    {
+      "title": "An Experimental Multi-Antenna RF Wireless Power Transfer and Energy Harvesting System",
+      "venue": "IEEE Transactions on Green Communications and Networking, 2025",
+      "authors": [
+        "L Özkan",
+        "S Büyükçorak",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:E7VqQtBCVmcC",
+      "type": "journal"
+    },
+    {
+      "title": "Advancing Lunar Communication through Inter-domain Space Networks and Dynamic Orchestration",
+      "venue": "arXiv preprint arXiv:2507.15483, 2025",
+      "authors": [
+        "SG Cetin",
+        "B Donmez",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:0sTkTiv_uMkC",
+      "type": "preprint"
+    },
+    {
+      "title": "Diffraction and Scattering Modeling for Laser Power Beaming in Lunar Environment",
+      "venue": "arXiv preprint arXiv:2507.13982, 2025",
+      "authors": [
+        "Y Jiwan-Mercier",
+        "B Dönmez",
+        "G Karabulut Kurt",
+        "S Loranger"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:e84hm74t-eoC",
+      "type": "preprint"
+    },
+    {
+      "title": "Space Shift Keying-Enabled ISAC for Efficient Debris Detection and Communication in LEO Satellite Networks",
+      "venue": "arXiv preprint arXiv:2507.13526, 2025",
+      "authors": [
+        "GGN Ngoufo",
+        "K Humadi",
+        "E Baladi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:3lUAU8Oskd0C",
+      "type": "preprint"
+    },
+    {
+      "title": "Improving SAGIN Resilience to Jamming with Reconfigurable Intelligent Surfaces",
+      "venue": "arXiv preprint arXiv:2507.03729, 2025",
+      "authors": [
+        "L Marandi",
+        "K Humadi",
+        "G Karabulut Kurt",
+        "W Ajib",
+        "WP Zhu"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:KI9T_ytC6pkC",
+      "type": "preprint"
+    },
+    {
+      "title": "Space Shift Keying-Enabled ISAC for Efficient Debris Detection and Communication in LEO Satellite Networks",
+      "venue": "arXiv e-prints, arXiv: 2507.13526, 2025",
+      "authors": [
+        "G Ghislain Nkwewo Ngoufo",
+        "K Humadi",
+        "E Baladi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:60iIaj97TE0C",
+      "type": "preprint"
+    },
+    {
+      "title": "Secrecy Performance of Dual-Hop Energy Harvesting NOMA Network with Alamouti/RAS Technique",
+      "venue": "2025 33rd Signal Processing and Communications Applications Conference (SIU …, 2025",
+      "authors": [
+        "B Demirkol",
+        "O Kucur",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:8VtEwCQfWZkC",
+      "type": "conference"
+    },
+    {
+      "title": "Secrecy Performance in Dual-Hop EH-NOMA Networks with Transmit Antenna Selection and Generalized Selection Combining",
+      "venue": "2025 33rd Signal Processing and Communications Applications Conference (SIU …, 2025",
+      "authors": [
+        "B Demirkol",
+        "O Kucur",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:h168fVGZblEC",
+      "type": "conference"
+    },
+    {
+      "title": "Resilience Through Escalation: A Graph-Based PACE Architecture for Satellite Threat Response",
+      "venue": "arXiv preprint arXiv:2506.20882, 2025",
+      "authors": [
+        "A Boumeftah",
+        "S McKenzie-Picot",
+        "P Klimas",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:aDl3D7KC1E4C",
+      "type": "preprint"
+    },
+    {
+      "title": "Open Sky, Open Threats: Replay Attacks in Space Launch and Re-entry Phases",
+      "venue": "arXiv preprint arXiv:2506.17446, 2025",
+      "authors": [
+        "N Benchoubane",
+        "E Guven",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:J3LtWjKFLicC",
+      "type": "preprint"
+    },
+    {
+      "title": "Guest Editorial Special section on Emerging Modulation Techniques Toward 6G Networks",
+      "venue": "IEEE Open Journal of the Communications Society 6, iv-viii, 2025",
+      "authors": [
+        "M Wen",
+        "T Mao",
+        "E Basar",
+        "G Karabulut Kurt",
+        "Z Wang",
+        "N Al-Dhahir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:vnF2_uLGgtgC",
+      "type": "journal"
+    },
+    {
+      "title": "A Self-Sustaining Regenerative Amplifier Sensor Using Perfect Metamaterial Absorber for Liquid Concentration Prediction",
+      "venue": "2025 IEEE/MTT-S International Microwave Symposium-IMS 2025, 259-262, 2025",
+      "authors": [
+        "N Kazemi",
+        "G Karabulut Kurt",
+        "E Baladi"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:Ej9njvOgR2oC",
+      "type": "conference"
+    },
+    {
+      "title": "Modeling and Analysis of Coverage in Wideband Sub-Thz Multi-Carrier Systems with Beam-Squint",
+      "venue": "ICC 2025-IEEE International Conference on Communications, 2520-2525, 2025",
+      "authors": [
+        "K Humadi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:rbGdIwl2e6cC",
+      "type": "conference"
+    },
+    {
+      "title": "Secure Computation Offloading, Resource Allocation, and UAV Trajectory Control in UAV-based Wireless Networks with Cooperative Jamming",
+      "venue": "2025 IEEE International Conference on Communications Workshops (ICC …, 2025",
+      "authors": [
+        "MD Nguyen",
+        "W Ajib",
+        "WP Zhu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:g_UdREhPGEoC",
+      "type": "conference"
+    },
+    {
+      "title": "Multi-Priority Scheduling for Traffic Management in Future Scalable Payloads",
+      "venue": "2025 IEEE International Conference on Communications Workshops (ICC …, 2025",
+      "authors": [
+        "Zineb Garroussi",
+        "Olfa Ben Yahia",
+        "Brunilde Sansò",
+        "Jean-François Frigon",
+        "Stéphane Martel",
+        "Guillaume Mantelet",
+        "Antoine Lesage-Landry",
+        "Gunes Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:WzTVkKNmPSkC",
+      "type": "conference"
+    },
+    {
+      "title": "Energy-Efficient Satellite IoT Optical Downlinks Using Weather-Adaptive Reinforcement Learning",
+      "venue": "ICC 2025-IEEE International Conference on Communications, 3218-3223, 2025",
+      "authors": [
+        "Ethan Fettes",
+        "Pablo G Madoery",
+        "Halim Yanikomeroglu",
+        "Gunes Karabulut Kurt",
+        "Abhishek Naik",
+        "Colin Bellinger",
+        "Stéphane Martel",
+        "Khaled Ahmed",
+        "Sameera Siddiqui"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:wyM6WWKXmoIC",
+      "type": "conference"
+    },
+    {
+      "title": "From Turbulence to Tranquility: AI-Driven Low-Altitude Network",
+      "venue": "arXiv preprint arXiv:2506.01378, 2025",
+      "authors": [
+        "K Tekbıyık",
+        "AHF Raouf",
+        "İ Güvenç",
+        "M Chen",
+        "G Karabulut Kurt",
+        "A Lesage-Landry"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:3A3nxV7CjKIC",
+      "type": "preprint"
+    },
+    {
+      "title": "Access Inequality in LEO Satellite Networks: A Case Study of High-Latitude Coverage in Northern Québec",
+      "venue": "IEEE Open Journal of Vehicular Technology, 2025",
+      "authors": [
+        "M Almekhlafi",
+        "A Lesage-Landry",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:eH23hyXCXa4C",
+      "type": "journal"
+    },
+    {
+      "title": "Towards Resilient SDA: Graph Theory and Cooperative Control in Distributed Network Architectures",
+      "venue": "arXiv preprint arXiv:2505.08520, 2025",
+      "authors": [
+        "N Benchoubane",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:XDrR66g3YHsC",
+      "type": "preprint"
+    },
+    {
+      "title": "Risk-aware Slicing-based Security Functions Allocation in LEO Satellite Networks",
+      "venue": "2025 International Wireless Communications and Mobile Computing (IWCMC), 728-733, 2025",
+      "authors": [
+        "M Mahyoub",
+        "S Muhaidat",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:tz746QTLzJkC",
+      "type": "other"
+    },
+    {
+      "title": "Temporal Spectrum Analysis for Multi-Constellation Space Domain Awareness",
+      "venue": "arXiv preprint arXiv:2505.05149, 2025",
+      "authors": [
+        "M Naslcheraghi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:M_lZXyI38BkC",
+      "type": "preprint"
+    },
+    {
+      "title": "A Self-Powered Microwave Sensor Using Perfect Metamaterial Absorbers for Liquid Characterization",
+      "venue": "IEEE Transactions on Microwave Theory and Techniques, 2025",
+      "authors": [
+        "N Kazemi",
+        "G Karabulut Kurt",
+        "E Baladi"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:6ZzL7HXColQC",
+      "type": "journal"
+    },
+    {
+      "title": "Mobile Communications and Networks",
+      "venue": "IEEE COMMUNICATIONS MAGAZINE 63 (5), 46-47, 2025",
+      "authors": [
+        "W Chen",
+        "G Karabulut Kurt",
+        "S Ruffini",
+        "L Wei"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:BAanoTsO0WEC",
+      "type": "other"
+    },
+    {
+      "title": "Green Satellite Networks Using Segment Routing and Software-Defined Networking",
+      "venue": "arXiv preprint arXiv:2504.21181, 2025",
+      "authors": [
+        "J Liang",
+        "PG Madoery",
+        "CH Lung",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:Y9VhQm-5nPIC",
+      "type": "preprint"
+    },
+    {
+      "title": "Optical Power Beaming in the Lunar Environment",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems, 2025",
+      "authors": [
+        "M Naqbi",
+        "S Loranger",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:3_LpOwP6eMYC",
+      "type": "journal"
+    },
+    {
+      "title": "Multi-Orbiter Continuous Lunar Beaming",
+      "venue": "arXiv preprint arXiv:2504.11300, 2025",
+      "authors": [
+        "B Donmez",
+        "Y Jiwan-Mercier",
+        "S Loranger",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:I858iXPj1OkC",
+      "type": "preprint"
+    },
+    {
+      "title": "Performance Analyses of MRT/MRC in NOMA Full-Duplex Relay Networks with Residual Hardware Impairments",
+      "venue": "IEEE Open Journal of Vehicular Technology, 2025",
+      "authors": [
+        "M Toka",
+        "E Güven",
+        "G Karabulut Kurt",
+        "O Kucur"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:kUhpeDhEZMUC",
+      "type": "journal"
+    },
+    {
+      "title": "Task mapping strategies for electric power system simu-lations on heterogeneous clusters",
+      "venue": "Les Cahiers du GERAD ISSN 711, 2440, 2025",
+      "authors": [
+        "J Durette",
+        "G Karabulut Kurt",
+        "A Lesage-Landry"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:g8uWPOAv7ggC",
+      "type": "other"
+    },
+    {
+      "title": "High-Altitude Platform Station Systems Cybersecurity Analysis",
+      "venue": "Journal of Aerospace Information Systems, 1-9, 2025",
+      "authors": [
+        "N Boschetti",
+        "G Karabulut Kurt",
+        "G Falco"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:lbI08cpqPnQC",
+      "type": "journal"
+    },
+    {
+      "title": "Hybrid FSO and RF Lunar Wireless Power Transfer",
+      "venue": "arXiv preprint arXiv:2503.20125, 2025",
+      "authors": [
+        "B Donmez",
+        "Y Jiwan-Mercier",
+        "S Loranger",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:Vno172sVVMwC",
+      "type": "preprint"
+    },
+    {
+      "title": "Integrated User Association, Computation Offloading, Resource Allocation, and UAV Trajectory Control Against Jamming for UAV-Based Wireless Networks",
+      "venue": "IEEE Transactions on Wireless Communications, 2025",
+      "authors": [
+        "MD Nguyen",
+        "W Ajib",
+        "WP Zhu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:ifOnle78iJkC",
+      "type": "journal"
+    },
+    {
+      "title": "Adaptive Detection of On-Orbit Jamming for Securing GEO Satellite Links",
+      "venue": "2025 12th Advanced Satellite Multimedia Systems Conference and the 18th …, 2025",
+      "authors": [
+        "A Boumeftah",
+        "OB Yahia",
+        "JF Frigon",
+        "G Falco",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:yTLRzDEmwhEC",
+      "type": "conference"
+    },
+    {
+      "title": "Handover Strategy for LEO Satellite Networks Using Bipartite Graph and Hysteresis Margin",
+      "venue": "IEEE Open Journal of the Communications Society, 2025",
+      "authors": [
+        "S Eydian",
+        "M Hosseini",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:9shLKfS_uJEC",
+      "type": "journal"
+    },
+    {
+      "title": "Kise-Manitow's Hand in Space: Securing Communication and Connections in Space",
+      "venue": "arXiv preprint arXiv:2502.09167, 2025",
+      "authors": [
+        "N Benchoubane",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:rLGzs9wiiwIC",
+      "type": "preprint"
+    },
+    {
+      "title": "Next-Gen Space-Based Surveillance: Blockchain for Trusted and Efficient Debris Tracking",
+      "venue": "arXiv preprint arXiv:2501.06970, 2025",
+      "authors": [
+        "N Benchoubane",
+        "N Fidan",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:TGkaJS32XoUC",
+      "type": "preprint"
+    },
+    {
+      "title": "Privacy-Preserving and Simultaneous Authentication in High-Density V2X Networks",
+      "venue": "arXiv preprint arXiv:2501.06087, 2025",
+      "authors": [
+        "MA Afshar",
+        "N Benchoubane",
+        "B Cayoren",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:xGWFX6Gbr9MC",
+      "type": "preprint"
+    },
+    {
+      "title": "A Double-Resonant Huygens' Metasurface Unit Cell for Applications in Dual-Band Transmitarray Antennas",
+      "venue": "Institute of Electrical and Electronics Engineers, 2025",
+      "authors": [
+        "M Zabetiakmal",
+        "G Karabulut Kurt",
+        "E Baladi"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:MDX3w3dAD3YC",
+      "type": "other"
+    },
+    {
+      "title": "Integrated Microwave and Mechanical Energy Harvesting Based on a Metasurface Perfect Absorber Incorporating Piezoelectric Material",
+      "venue": "Institute of Electrical and Electronics Engineers, 2025",
+      "authors": [
+        "M Zabetiakmal",
+        "G Karabulut Kurt",
+        "MS Sharawi",
+        "E Baladi"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:i_7YvbSbtFEC",
+      "type": "other"
+    },
+    {
+      "title": "A Dual-Layer Metal-Only Huygens' Metasurface Unit Cell for High-Power Applications",
+      "venue": "Institute of Electrical and Electronics Engineers, 2025",
+      "authors": [
+        "Z Pourgholamhossein",
+        "G Karabulut Kurt",
+        "E Baladi"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:ukw-9cB-YDkC",
+      "type": "other"
+    },
+    {
+      "title": "Orbital Debris Outage Risk Analysis in Inter-Satellite Links With Multicasting",
+      "venue": "IEEE Transactions on Vehicular Technology, 2025",
+      "authors": [
+        "E Guven",
+        "B Donmez",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:4n0clTBhZ78C",
+      "type": "journal"
+    },
+    {
+      "title": "Disrupt to Protect: Interference-Aware Security for HAPS-based Wireless Systems",
+      "venue": "Institute of Electrical and Electronics Engineers, 2025",
+      "authors": [
+        "K Humadi",
+        "L Marandi",
+        "G Karabulut Kurt",
+        "W Ajib",
+        "WP Zhu"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:qsWQJNntlusC",
+      "type": "other"
+    },
+    {
+      "title": "Kalman Filter-Enhanced Space Debris Detection and Tracking Using Space-Borne FMCW Radars",
+      "venue": "Institute of Electrical and Electronics Engineers, 2025",
+      "authors": [
+        "K Mohammadi",
+        "K Humadi",
+        "E Baladi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:RfUwGJFMQ-0C",
+      "type": "other"
+    },
+    {
+      "title": "Multi-layered Authentication and Key Management Scheme for Secure IoV.",
+      "venue": "CoRR, 2025",
+      "authors": [
+        "M Afshar",
+        "N Benchoubane",
+        "B Cayoren",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:V_vSwabWVtYC",
+      "type": "other"
+    },
+    {
+      "title": "Emerging Technologies Regarding Spectrum Usage and System Design in a New Study Cycle",
+      "venue": "IEEE Network 39 (6), 109-111, 2025",
+      "authors": [
+        "T Mao",
+        "L Xu",
+        "G Karabulut Kurt",
+        "A Mourad",
+        "Y Xiao",
+        "M Guizani"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:SpPTWFSNUtQC",
+      "type": "other"
+    },
+    {
+      "title": "Advancing Lunar Communication Through Inter-Domain Space Networks and Dynamic Orchestration",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems, 2025",
+      "authors": [
+        "S Geçgel Çetin",
+        "B Donmez",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:QaSi33NTfwYC",
+      "type": "journal"
+    },
+    {
+      "title": "Multi-layered Authentication and Key Management Scheme for Secure IoV",
+      "venue": "arXiv e-prints, arXiv: 2501.06087, 2025",
+      "authors": [
+        "Morteza Azmoudeh Afshar",
+        "Nesrine Benchoubane",
+        "Busra Cayoren",
+        "Gunes Karabulut Kurt",
+        "Enver Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:KTwcwpFFj4wC",
+      "type": "preprint"
+    },
+    {
+      "title": "Decentralized Space Surveillance: Blockchain-Based Space Domain Awareness",
+      "venue": "arXiv e-prints, arXiv: 2501.06970, 2025",
+      "authors": [
+        "N Benchoubane",
+        "N Fidan",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:rOcdG6UcVlcC",
+      "type": "preprint"
+    },
+    {
+      "title": "Complex network control and stability through distributed critic‐based neuro‐fuzzy learning",
+      "venue": "IET Control Theory &amp; Applications 19 (1), e12773, 2025",
+      "authors": [
+        "J Soleimani",
+        "R Farhangi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:TesyEGJKHF4C",
+      "type": "other"
+    },
+    {
+      "title": "Securing Satellite Link Segment: A Secure-by-Component Design",
+      "venue": "2024 IEEE International Conference on Wireless for Space and Extreme …, 2024",
+      "authors": [
+        "Olfa Ben Yahia",
+        "William Ferguson",
+        "Sumit Chakravarty",
+        "Nesrine Benchoubane",
+        "Gunes Karabulut Kurt",
+        "Gürkan Gür",
+        "Gregory Falco"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:In6cVmBjs0IC",
+      "type": "conference"
+    },
+    {
+      "title": "A scalable architecture for future regenerative satellite payloads",
+      "venue": "IEEE Wireless Communications Letters, 2024",
+      "authors": [
+        "Olfa Ben Yahia",
+        "Zineb Garroussi",
+        "Brunilde Sansò",
+        "Jean-François Frigon",
+        "Stéphane Martel",
+        "Antoine Lesage-Landry",
+        "Gunes Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:N4u4nq0IxgcC",
+      "type": "journal"
+    },
+    {
+      "title": "Decentralized Federated Learning over Satellite Networks (Dec-FLSat): A Learning Scheme Based on LEO-Structure",
+      "venue": "GLOBECOM 2024-2024 IEEE Global Communications Conference, 4896-4901, 2024",
+      "authors": [
+        "M Obeed",
+        "G Karabulut Kurt",
+        "H Yanikomeroglu"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:VRfTbSk87rEC",
+      "type": "conference"
+    },
+    {
+      "title": "Machine Unlearning for Uplink Interference Cancellation",
+      "venue": "GLOBECOM 2024-2024 IEEE Global Communications Conference, 4890-4895, 2024",
+      "authors": [
+        "E Guven",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:jlhcAiayVhoC",
+      "type": "conference"
+    },
+    {
+      "title": "Adaptive Phase Shifters for Hybrid Beamforming in mm-Wave Systems",
+      "venue": "IEEE Transactions on Wireless Communications, 2024",
+      "authors": [
+        "M Alouzi",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:I8rxH6phXEkC",
+      "type": "journal"
+    },
+    {
+      "title": "High‐power radio frequency wireless energy transfer system: Comprehensive survey on design challenges",
+      "venue": "IET Wireless Sensor Systems 14 (6), 248-264, 2024",
+      "authors": [
+        "J Soleimani",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:_tF6a-HnqWAC",
+      "type": "other"
+    },
+    {
+      "title": "Distributed Critic-Based Neuro-Fuzzy Learning in Swarm Autonomous Vehicles",
+      "venue": "IEEE, 2024",
+      "authors": [
+        "R Farhangi",
+        "J Soleimani",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:YPNY0knpFBYC",
+      "type": "other"
+    },
+    {
+      "title": "Federated Learning for UAV-Based Spectrum Sensing: Enhancing Accuracy Through SNR-Weighted Model Aggregation",
+      "venue": "arXiv preprint arXiv:2411.11159, 2024",
+      "authors": [
+        "K Tekbıyık",
+        "G Karabulut Kurt",
+        "A Lesage-Landry"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:Y0-TYkg6YM4C",
+      "type": "preprint"
+    },
+    {
+      "title": "Distributed multiple-input multiple-output low earth orbit satellite systems and methods",
+      "venue": "US Patent 12,143,177, 2024",
+      "authors": [
+        "M Abdelsadek",
+        "G Karabulut Kurt",
+        "H Yanikomeroglu"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:-6RzNnnwWf8C",
+      "type": "other"
+    },
+    {
+      "title": "Trusted video streaming method developed using blockchain technology on mobile devices",
+      "venue": "US Patent 12,143,497, 2024",
+      "authors": [
+        "N Tavakkoli",
+        "E Ozdemir",
+        "GZK KURT"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:kJDgFkosVoMC",
+      "type": "other"
+    },
+    {
+      "title": "Securing Satellite Link Segment: A Secure-by-Component Design",
+      "venue": "arXiv e-prints, arXiv: 2411.12632, 2024",
+      "authors": [
+        "Olfa Ben Yahia",
+        "William Ferguson",
+        "Sumit Chakravarty",
+        "Nesrine Benchoubane",
+        "Gunes Karabulut Kurt",
+        "Gürkan Gür",
+        "Gregory Falco"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:RMgMIBzvq-4C",
+      "type": "preprint"
+    },
+    {
+      "title": "Distributed Critic-Based Neuro-Fuzzy Learning in Swarm Autonomous Vehicles",
+      "venue": "2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), 1-6, 2024",
+      "authors": [
+        "J Soleimani",
+        "R Farhangi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:yeL6HyUMUGUC",
+      "type": "conference"
+    },
+    {
+      "title": "A Robust Clustering Scheme for Vehicular Communication Networks",
+      "venue": "2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), 1-6, 2024",
+      "authors": [
+        "M Hosseini",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:orDZ08hpP44C",
+      "type": "conference"
+    },
+    {
+      "title": "Cislunar communication performance and system analysis with uncharted phenomena",
+      "venue": "IEEE Open Journal of the Communications Society 5, 6404-6419, 2024",
+      "authors": [
+        "SG Cetin",
+        "Á Vazquez-Castro",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:EaFouW7jFu4C",
+      "type": "journal"
+    },
+    {
+      "title": "On the Role of Reflectarrays for Interplanetary Links",
+      "venue": "IEEE Open Journal of the Communications Society, 2024",
+      "authors": [
+        "E Guven",
+        "P Camacho",
+        "E Baladi",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:ji7lAbPyDbYC",
+      "type": "journal"
+    },
+    {
+      "title": "Online Convex Optimization for On-Board Routing in High-Throughput Satellites",
+      "venue": "arXiv preprint arXiv:2409.01488, 2024",
+      "authors": [
+        "O Bélanger",
+        "JL Lupien",
+        "OB Yahia",
+        "S Martel",
+        "A Lesage-Landry",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:QoJ_w57xiyAC",
+      "type": "preprint"
+    },
+    {
+      "title": "Next-Generation Satellite IoT Networks: A HAPS-Enabled Solution to Enhance Optical Data Transfer",
+      "venue": "2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio …, 2024",
+      "authors": [
+        "Ethan Fettes",
+        "Pablo G Madoery",
+        "Halim Yanikomeroglu",
+        "Gunes Karabulut Kurt",
+        "Colin Bellinger",
+        "Stéphane Martel",
+        "Khaled Ahmed",
+        "Sameera Siddiqui"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:4e5Qn2KL_jwC",
+      "type": "conference"
+    },
+    {
+      "title": "Cislunar Communication Performance and System Analysis with Uncharted Phenomena",
+      "venue": "arXiv e-prints, arXiv: 2409.09426, 2024",
+      "authors": [
+        "S Gecgel Cetin",
+        "A Vazquez-Castro",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:FsLZdJ3BAzkC",
+      "type": "preprint"
+    },
+    {
+      "title": "Evolution of High-Throughput Satellite Systems: A Vision of Programmable Regenerative Payload",
+      "venue": "IEEE Communications Surveys &amp; Tutorials, 2024",
+      "authors": [
+        "Olfa Ben Yahia",
+        "Zineb Garroussi",
+        "Olivier Bélanger",
+        "Brunilde Sansò",
+        "Jean-François Frigon",
+        "Stéphane Martel",
+        "Antoine Lesage-Landry",
+        "Gunes Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:6VlyvFCUEfcC",
+      "type": "other"
+    },
+    {
+      "title": "A New Approach to Detect and Thwart Replay Attacks on Car Remote Keyless Entry Systems from Stratosphere",
+      "venue": "2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE …, 2024",
+      "authors": [
+        "GGN Ngoufo",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:rCNdntzdTkkC",
+      "type": "conference"
+    },
+    {
+      "title": "Powering the Moon by Utilizing Lagrange Points 4 and 5",
+      "venue": "2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE …, 2024",
+      "authors": [
+        "B Donmez",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:x21FZCSn4ZoC",
+      "type": "conference"
+    },
+    {
+      "title": "Group Authentication and Key Establishment Scheme",
+      "venue": "IEEE Internet of Things Journal, 2024",
+      "authors": [
+        "S Guzey",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:QsKbpXNoaWkC",
+      "type": "journal"
+    },
+    {
+      "title": "Minimum Requirements for Space System Cybersecurity-Ensuring Cyber Access to Space",
+      "venue": "2024 IEEE 10th International Conference on Space Mission Challenges for …, 2024",
+      "authors": [
+        "Gregory Falco",
+        "Nicolo Boschetti",
+        "Arun Viswanathan",
+        "Brandon Bailey",
+        "Carsten Maple",
+        "Gunes Karabulut Kurt",
+        "Johannes Willbold",
+        "Jill Slay",
+        "Edward Birrane",
+        "David Logsdon",
+        "Shane Bennett",
+        "William Ferguson",
+        "James Curbo",
+        "Jacob Oakley",
+        "Moritz Schloegel",
+        "Stefan Hagen",
+        "Johan Sigholm",
+        "Cameron Mehlman",
+        "Rajiv Thummala",
+        "Matteo Calabrese",
+        "Yogita Shah",
+        "Anh Tuan Le",
+        "Kymie Tan",
+        "Erin Miller",
+        "Gregory Epiphaniou",
+        "Ugur Ilker Atmaca",
+        "Wayne C Henry",
+        "Gürkan Gür",
+        "Riccardo Vecellio Segate",
+        "Olfa Ben Yahia"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:DXE8ND7PrJAC",
+      "type": "conference"
+    },
+    {
+      "title": "A Group Authentication Method for Public Transportation Platooning",
+      "venue": "2024 6th International Conference on Communications, Signal Processing, and …, 2024",
+      "authors": [
+        "G Karabulut Kurt",
+        "K Nari-Baykal",
+        "E Ozdemir"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:H7nrzBkawXsC",
+      "type": "conference"
+    },
+    {
+      "title": "The Error Analysis of the Secret Key Generation Algorithm Using Analog Function Computation",
+      "venue": "2024 6th International Conference on Communications, Signal Processing, and …, 2024",
+      "authors": [
+        "E Alper",
+        "E Guven",
+        "G Karabulut Kurt",
+        "E Ozdemir"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:lg2tdxc6qMwC",
+      "type": "conference"
+    },
+    {
+      "title": "Distributed Massive MIMO System with Dynamic Clustering in LEO Satellite Networks",
+      "venue": "2024 6th International Conference on Communications, Signal Processing, and …, 2024",
+      "authors": [
+        "K Humadi",
+        "G Karabulut Kurt",
+        "H Yanikomeroglu"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:m92CDrhVnKEC",
+      "type": "conference"
+    },
+    {
+      "title": "A survey on orthogonal time frequency space modulation",
+      "venue": "IEEE Open Journal of the Communications Society 5, 4483-4518, 2024",
+      "authors": [
+        "M Aldababsa",
+        "S Özyurt",
+        "G Karabulut Kurt",
+        "O Kucur"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:xm0LlTxljI0C",
+      "type": "journal"
+    },
+    {
+      "title": "A Scalable Architecture for Future Regenerative Satellite Payloads",
+      "venue": "arXiv e-prints, arXiv: 2407.06075, 2024",
+      "authors": [
+        "Olfa Ben Yahia",
+        "Zineb Garroussi",
+        "Brunilde Sansò",
+        "Jean-François Frigon",
+        "Stéphane Martel",
+        "Antoine Lesage-Landry",
+        "Gunes Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:PQEM9vzQD9gC",
+      "type": "preprint"
+    },
+    {
+      "title": "Message from the TPC Chairs",
+      "venue": "2024 International Conference on Ubiquitous Networking (UNet) 10, 1-1, 2024",
+      "authors": [
+        "E Sabir",
+        "M Benjillali",
+        "G Karabulut Kurt",
+        "J Lloret"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:WWeOtg8bX_EC",
+      "type": "conference"
+    },
+    {
+      "title": "Integrated Computation Offloading, UAV Trajectory Control, and Resource Allocation Against Jamming in SAGIN",
+      "venue": "2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 1-5, 2024",
+      "authors": [
+        "MD Nguyen",
+        "W Ajib",
+        "WP Zhu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:7H_jS4BsgvYC",
+      "type": "conference"
+    },
+    {
+      "title": "On-demand routing in leo mega-constellations with dynamic laser inter-satellite links",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems 60 (5), 7089-7105, 2024",
+      "authors": [
+        "Dhiraj Bhattacharjee",
+        "Pablo G Madoery",
+        "Aizaz U Chaudhry",
+        "Halim Yanikomeroglu",
+        "Güneş Karabulut Kurt",
+        "Peng Hu",
+        "Khaled Ahmed",
+        "Stéphane Martel"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:4Yq6kJLCcecC",
+      "type": "journal"
+    },
+    {
+      "title": "Delay-Doppler Domain Pulse Design for OTFS-NOMA",
+      "venue": "2024 IEEE International Conference on Communications Workshops (ICC …, 2024",
+      "authors": [
+        "M Kulhandjian",
+        "H Kulhandjian",
+        "G Karabulut Kurt",
+        "H Yanikomeroglu"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:sfnaS5RM6jYC",
+      "type": "conference"
+    },
+    {
+      "title": "A Novel Non-Terrestrial Networks Architecture: All Optical LEO Constellations with High-Altitude Ground Stations",
+      "venue": "2024 IEEE International Conference on Communications Workshops (ICC …, 2024",
+      "authors": [
+        "PG Madoery",
+        "JA Fraire",
+        "JM Finochietto",
+        "H Yanikomeroglu",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:m4fbC6XIj1kC",
+      "type": "conference"
+    },
+    {
+      "title": "Tensor-based Space Debris Detection for Satellite Mega-constellations",
+      "venue": "2024 IEEE International Conference on Communications Workshops (ICC …, 2024",
+      "authors": [
+        "O Daoust",
+        "H Nayir",
+        "I Azam",
+        "A Lesage-Landry",
+        "G Karabulut Kurt"
+      ],
+      "year": 2024,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0MTk8e4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0MTk8e4AAAAJ:jtI9f0ekYq0C",
+      "type": "conference"
+    }
+  ],
+  "lastUpdated": "2026-01-03T17:21:15.295321"
+}

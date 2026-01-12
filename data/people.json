@@ -1,0 +1,95 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Gunes KARABULUT KURT",
+      "role": "director",
+      "researchTopic": "Machine Learning and Neural Networks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "imageUrl": "/images/people/gkk.png",
+      "email": "gunes.karabulut[at]lab.edu"
+    },
+    {
+      "id": 2,
+      "name": "Olfa Ben YAHIA",
+      "role": "postdoc",
+      "researchTopic": "Computer Vision and Image Processing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "imageUrl": "/images/people/obYAH.png",
+      "email": "michael.chen@lab.edu"
+    },
+    {
+      "id": 2,
+      "name": "Kursat TEKBIYIK",
+      "role": "postdoc",
+      "researchTopic": "Computer Vision and Image Processing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "imageUrl": "/images/people/kTEK.webp",
+      "email": "michael.chen@lab.edu"
+    },
+    {
+      "id": 3,
+      "name": "Eray GUVEN",
+      "role": "phd",
+      "researchTopic": "Natural Language Processing and AI Ethics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+      "imageUrl": "/images/people/zz.jpg",
+      "email": "sarah.johnson@lab.edu"
+    },
+    {
+      "id": 4,
+      "name": "Lorem IPSUM",
+      "role": "masters",
+      "researchTopic": "Deep Learning Applications",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "/images/people/hh.jpg",
+      "email": "john.doe@lab.edu"
+    },
+    {
+      "id": 5,
+      "name": "Lorem IPSUM",
+      "role": "bachelor",
+      "researchTopic": "Data Science and Analytics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageUrl": "/images/people/xx.jpg",
+      "email": "jane.smith@lab.edu"
+    },
+    {
+      "id": 6,
+      "name": "Nesrine BENCHOUBANE",
+      "role": "phd",
+      "researchTopic": "Artificial Intelligence Research",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "imageUrl": "/images/people/grrk.jpg",
+      "email": "robert.lee@alumni.edu"
+    },
+    {
+      "id": 7,
+      "name": "Mohammed ALMEKHLAFI",
+      "role": "postdoc",
+      "researchTopic": "Machine Learning and Robotics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+      "imageUrl": "/images/people/mALMEK.jpeg",
+      "email": "mohammed.almekhlafi@lab.edu"
+    },
+    { 
+      "id": 8,
+      "name": "Lorem IPSUM",
+      "role": "alumni",
+      "researchTopic": "Computer Vision and Pattern Recognition",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "imageUrl": "/images/people/zz.jpg",
+      "email": ""
+    },
+    {
+        "id": 9,
+        "name": "Khaled HUMADI",
+        "role": "postdoc",
+        "researchTopic": "Natural Language Processing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "imageUrl": "/images/people/kHUM.jpeg",
+        "email": ""
+
+    }
+  ]
+}

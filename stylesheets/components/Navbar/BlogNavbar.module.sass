@@ -1,0 +1,47 @@
+@import "../../../utils/colorPalette"
+@import "../../../utils/animationTimer"
+
+.noMargin
+  margin: 0
+
+.titleFont
+  font-family: "Montserrat", sans-serif
+  font-weight: 500
+  transition: text-shadow $colorTransitionDuration, color $colorTransitionDuration
+
+.defaultCursor
+  cursor: default
+
+.pointerCursor
+  cursor: pointer
+
+.title
+  text-shadow: -2px 2px 0px var(--text-shadow-color)
+  color: var(--primary-text-color)
+
+.navbarFlex
+  display: flex
+  justify-content: space-between
+  min-width: 230px
+
+.darkModeToggle
+  display: flex
+  align-items: center
+  justify-content: center
+
+.branding
+  height: 42px
+  width: 46.1875px // internet explorer cannot determine the width of an SVG automatically
+  border-right: 2px solid var(--primary-text-color)
+  transition: border-right $colorTransitionDuration
+  padding-top: 2px
+  margin-top: 4px
+  margin-right: 16px
+  padding-right: 16px
+
+.blogLinkBranding
+  color: var(--primary-link-color)
+  text-shadow: -2px 2px 0px var(--link-shadow-color)
+  &:hover
+    color: var(--primary-link-color)
+
