@@ -30,17 +30,14 @@ export default function Home() {
         arrowAnimationReference={content.publicationsReference}
       />
 
-      <Heading
-        id={content.startHereReference}
-        text={content.startHereTitle}
-      />
+      <Heading id={content.startHereReference} text={content.startHereTitle} />
       <StartHereShowcase />
 
-      <Heading id={content.publicationsReference} text={content.publicationsTitle} />
+      <Heading
+        id={content.publicationsReference}
+        text={content.publicationsTitle}
+      />
       <PublicationsShowcase />
-
-
-
 
       <div
         id={content.contactReference}

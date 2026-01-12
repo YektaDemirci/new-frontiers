@@ -19,8 +19,7 @@ const BlogFooter = () => {
       <div className={title}>
         <span>{footer.title}</span>
       </div>
-      <div className={socialMediaBar}>
-      </div>
+      <div className={socialMediaBar}></div>
     </footer>
   );
 };

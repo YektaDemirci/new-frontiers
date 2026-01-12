@@ -27,12 +27,11 @@ const Projects = () => (
           />
         ))}
       </Row>
-                <BlogShowcaseButton
+      <BlogShowcaseButton
         link={BLOG_LINK}
         text={blogShowcase.viewAllBlogPostsButton}
       />
     </div>
-
   </Section>
 );
 

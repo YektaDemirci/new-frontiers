@@ -32,18 +32,28 @@ const Footer = () => (
       <Row>
         <div className={`${footerLeft} ${lineSeparator}`}>
           <div className={footerLogoContainer}>
-            <a href="https://www.polymtl.ca/en" target="_blank" rel="noopener noreferrer" className={footerLogoLink}>
-              <img 
-                src={footer.plyImage} 
-                alt="Polytechnique Montreal" 
+            <a
+              href="https://www.polymtl.ca/en"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={footerLogoLink}
+            >
+              <img
+                src={footer.plyImage}
+                alt="Polytechnique Montreal"
                 className={footerLogo}
               />
             </a>
             {footer.gramesImage && (
-              <a href="https://www.grames.polymtl.ca/" target="_blank" rel="noopener noreferrer" className={footerLogoLink}>
-                <img 
-                  src={footer.gramesImage} 
-                  alt="GRAMES" 
+              <a
+                href="https://www.grames.polymtl.ca/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={footerLogoLink}
+              >
+                <img
+                  src={footer.gramesImage}
+                  alt="GRAMES"
                   className={footerLogo}
                 />
               </a>

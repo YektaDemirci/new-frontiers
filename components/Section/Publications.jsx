@@ -15,14 +15,17 @@ const PUBLICATIONS_PER_PAGE = 25;
 
 const Publications = () => {
   const [visibleCount, setVisibleCount] = useState(PUBLICATIONS_PER_PAGE);
-  
+
   const showMore = () => {
-    setVisibleCount(prevCount => prevCount + PUBLICATIONS_PER_PAGE);
+    setVisibleCount((prevCount) => prevCount + PUBLICATIONS_PER_PAGE);
   };
-  
-  const visiblePublications = publications.publicationList.slice(0, visibleCount);
+
+  const visiblePublications = publications.publicationList.slice(
+    0,
+    visibleCount
+  );
   const hasMore = visibleCount < publications.publicationList.length;
-  
+
   return (
     <Section className={publicationsSection}>
       <Container>

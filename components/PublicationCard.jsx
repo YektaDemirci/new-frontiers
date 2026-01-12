@@ -9,8 +9,8 @@ import {
 
 const PublicationCard = ({ title, venue, authors, year, url }) => {
   // Check if the last author is "..." and replace with "et al."
-  const displayAuthors = authors.map(author => 
-    author === '...' ? 'et al.' : author
+  const displayAuthors = authors.map((author) =>
+    author === "..." ? "et al." : author
   );
   const authorList = displayAuthors.join(", ");
 

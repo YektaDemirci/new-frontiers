@@ -14,7 +14,7 @@ import {
   navbarToggle,
   topNavCollapse,
   topNavExpand,
-  whiteLink,
+  whiteLink
 } from "../../stylesheets/components/Navbar/NavigationBar.module.sass";
 import Container from "../Util/Container";
 import NavbarToggle from "./NavbarToggle";
@@ -25,7 +25,7 @@ const flags = require("../../data/flags.json");
 const content = require("../../data/navbar.json");
 
 const NavigationBar = ({ forceBackground = false }) => {
-  const linkClass =  whiteLink;
+  const linkClass = whiteLink;
   const [navbarExpanded, setNavbarExpanded] = useState(true);
   const [mobileNavbarCollapsed, setMobileNavbarCollapsed] = useState(true);
   const [transparency, setTransparency] = useState(forceBackground ? 1.0 : 0.0);
@@ -84,15 +84,8 @@ const NavigationBar = ({ forceBackground = false }) => {
     >
       <Container className={navbarContainer}>
         <div className={mobileNavbar}>
-          <NavbarItem
-            className={brandContainer}
-            href="/"
-          >
-            <img
-              src="/images/brand.png"
-              alt="Brand Logo"
-              className={brand}
-            />
+          <NavbarItem className={brandContainer} href="/">
+            <img src="/images/brand.png" alt="Brand Logo" className={brand} />
             {/* <BrandingLogo
               className={brand}
               fillColor={"#F0F0F0"}
@@ -108,11 +101,11 @@ const NavigationBar = ({ forceBackground = false }) => {
                 className={linkClass}
                 key={item.title}
               >
-                {item.icon && item.icon.endsWith('.png') ? (
+                {item.icon && item.icon.endsWith(".png") ? (
                   <img
                     src={item.icon}
                     alt={item.title}
-                    style={{ height: 20, verticalAlign: 'middle' }}
+                    style={{ height: 20, verticalAlign: "middle" }}
                   />
                 ) : (
                   item.title
@@ -127,7 +120,7 @@ const NavigationBar = ({ forceBackground = false }) => {
           </div>
         </div>
 
-        <div style={{display: "flex"}}>
+        <div style={{ display: "flex" }}>
           <div className={navbarFlagLarge}>
             {flags.items.map((item) => (
               <NavbarItem
@@ -136,11 +129,11 @@ const NavigationBar = ({ forceBackground = false }) => {
                 className={linkClass}
                 key={item.title}
               >
-                {item.icon && item.icon.endsWith('.png') ? (
+                {item.icon && item.icon.endsWith(".png") ? (
                   <img
                     src={item.icon}
                     alt={item.title}
-                    style={{ height: 20, verticalAlign: 'middle' }}
+                    style={{ height: 20, verticalAlign: "middle" }}
                   />
                 ) : (
                   item.title
@@ -163,11 +156,11 @@ const NavigationBar = ({ forceBackground = false }) => {
                 className={linkClass}
                 key={item.title}
               >
-                {item.icon && item.icon.endsWith('.png') ? (
+                {item.icon && item.icon.endsWith(".png") ? (
                   <img
                     src={item.icon}
                     alt={item.title}
-                    style={{ height: 20, verticalAlign: 'middle' }}
+                    style={{ height: 20, verticalAlign: "middle" }}
                   />
                 ) : (
                   item.title
@@ -176,7 +169,6 @@ const NavigationBar = ({ forceBackground = false }) => {
             ))}
           </div>
         </div>
-
       </Container>
     </nav>
   );

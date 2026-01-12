@@ -14,7 +14,7 @@ module.exports = () => {
           // config for next-optimized-images
           optimizeImagesInDev: false,
           handleImages: ["png", "webp"],
-          removeOriginalExtension: true,
+          removeOriginalExtension: true
         });
       }
 
@@ -22,7 +22,7 @@ module.exports = () => {
     },
     {
       images: {
-        disableStaticImages: true,
+        disableStaticImages: true
       },
       webpack(config, options) {
         config.module.rules.push({
@@ -30,12 +30,12 @@ module.exports = () => {
           use: {
             loader: "file-loader",
             options: {
-              name: "[name].[hash].[ext]",
-            },
-          },
+              name: "[name].[hash].[ext]"
+            }
+          }
         });
         return config;
-      },
+      }
     }
   );
 };

@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
-import styles from '../stylesheets/components/PersonCard.module.sass';
+import React, { useState } from "react";
+import styles from "../stylesheets/components/PersonCard.module.sass";
 
 const PersonCard = ({ person }) => {
   const [imgSrc, setImgSrc] = useState(person.imageUrl);
 
   const handleImageError = () => {
-    setImgSrc('/images/people/person-placeholder.jpg');
+    setImgSrc("/images/people/person-placeholder.jpg");
   };
 
   return (

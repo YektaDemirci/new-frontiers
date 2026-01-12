@@ -1,22 +1,22 @@
-import React from 'react';
-import Section from '../Util/Section';
-import Container from '../Util/Container';
-import Heading from '../Heading';
-import PersonCard from '../PersonCard';
-import styles from '../../stylesheets/components/Section/People.module.sass';
+import React from "react";
+import Section from "../Util/Section";
+import Container from "../Util/Container";
+import Heading from "../Heading";
+import PersonCard from "../PersonCard";
+import styles from "../../stylesheets/components/Section/People.module.sass";
 
 const roleOrder = [
-  { key: 'director', label: 'Director' },
-  { key: 'postdoc', label: 'Postdoctoral' },
-  { key: 'phd', label: 'Doctoral' },
-  { key: 'masters', label: "Master's" },
-  { key: 'bachelor', label: 'Bachelor' },
-  { key: 'alumni', label: 'Alumni' }
+  { key: "director", label: "Director" },
+  { key: "postdoc", label: "Postdoctoral" },
+  { key: "phd", label: "Doctoral" },
+  { key: "masters", label: "Master's" },
+  { key: "bachelor", label: "Bachelor" },
+  { key: "alumni", label: "Alumni" }
 ];
 
 const People = ({ people }) => {
   const groupedPeople = roleOrder.reduce((acc, roleInfo) => {
-    const filtered = people.filter(person => person.role === roleInfo.key);
+    const filtered = people.filter((person) => person.role === roleInfo.key);
     if (filtered.length > 0) {
       acc.push({ ...roleInfo, people: filtered });
     }

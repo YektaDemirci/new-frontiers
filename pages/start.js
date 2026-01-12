@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
-import Head from 'next/head';
-import styles from '../stylesheets/StartHere.module.sass';
-import NavigationBar from '../components/Navbar/NavigationBar';
-import Footer from '../components/Footer/Footer';
-import Heading from '../components/Heading';
-import startHereData from '../data/startHere.json';
+import React, { useState } from "react";
+import Head from "next/head";
+import styles from "../stylesheets/StartHere.module.sass";
+import NavigationBar from "../components/Navbar/NavigationBar";
+import Footer from "../components/Footer/Footer";
+import Heading from "../components/Heading";
+import startHereData from "../data/startHere.json";
 
 const StartHere = () => {
   const [activeSection, setActiveSection] = useState(null);
@@ -41,7 +41,7 @@ const StartHere = () => {
             {startHereData.sections.map((section) => (
               <button
                 key={section.id}
-                className={`${styles.navButton} ${activeSection === section.id ? styles.active : ''}`}
+                className={`${styles.navButton} ${activeSection === section.id ? styles.active : ""}`}
                 onClick={() => toggleSection(section.id)}
               >
                 <span className={styles.navIcon}>{section.icon}</span>
@@ -61,16 +61,22 @@ const StartHere = () => {
                   <span className={styles.sectionIcon}>{section.icon}</span>
                   <div>
                     <h2 className={styles.sectionTitle}>{section.title}</h2>
-                    <p className={styles.sectionDescription}>{section.description}</p>
+                    <p className={styles.sectionDescription}>
+                      {section.description}
+                    </p>
                   </div>
                 </div>
 
                 <div className={styles.subsections}>
                   {section.subsections.map((subsection, index) => (
                     <div key={index} className={styles.subsection}>
-                      <h3 className={styles.subsectionTitle}>{subsection.title}</h3>
-                      <p className={styles.subsectionDescription}>{subsection.description}</p>
-                      
+                      <h3 className={styles.subsectionTitle}>
+                        {subsection.title}
+                      </h3>
+                      <p className={styles.subsectionDescription}>
+                        {subsection.description}
+                      </p>
+
                       <div className={styles.links}>
                         {subsection.links.map((link, linkIndex) => (
                           <a

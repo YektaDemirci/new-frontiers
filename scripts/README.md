@@ -37,7 +37,7 @@ To change the Google Scholar profile:
 2. Update the `SCHOLAR_URL` constant with your Google Scholar profile URL
 
 ```javascript
-const SCHOLAR_URL = 'https://scholar.google.com/citations?user=YOUR_USER_ID';
+const SCHOLAR_URL = "https://scholar.google.com/citations?user=YOUR_USER_ID";
 ```
 
 ## Dependencies

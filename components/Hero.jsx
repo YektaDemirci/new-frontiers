@@ -16,7 +16,7 @@ const Hero = ({ introHeading, introLeadIn }) => (
 
 Hero.propTypes = {
   introHeading: PropTypes.string.isRequired,
-  introLeadIn: PropTypes.string.isRequired,
+  introLeadIn: PropTypes.string.isRequired
 };
 
 export default Hero;

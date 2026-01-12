@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 const SCROLL_OFFSET = -80;
 const DRAW_IN_TIME = "0.6s";
@@ -20,14 +20,16 @@ const ArrowAnimation = ({ className, reference }) => {
   }, [clicked]);
 
   const handleClick = () => {
-    const targetElement = document.getElementById(reference) || document.querySelector(reference);
+    const targetElement =
+      document.getElementById(reference) || document.querySelector(reference);
     if (targetElement) {
-      const elementPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+      const elementPosition =
+        targetElement.getBoundingClientRect().top + window.pageYOffset;
       const offsetPosition = elementPosition + SCROLL_OFFSET;
 
       window.scrollTo({
         top: offsetPosition,
-        behavior: 'smooth'
+        behavior: "smooth"
       });
     }
   };
@@ -37,7 +39,12 @@ const ArrowAnimation = ({ className, reference }) => {
       <button
         aria-label="Scroll Down Prompt"
         onClick={handleClick}
-        style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer' }}
+        style={{
+          background: "none",
+          border: "none",
+          padding: 0,
+          cursor: "pointer"
+        }}
       >
         <svg
           id="trigger"

@@ -49,7 +49,11 @@ const Landing = ({ id, arrowAnimationReference }) => {
 
   // oFin vs videoFin
   const basicPrerender = (
-    <header id={id} className={`${heroBackground}`} style={{ position: 'relative', overflow: 'hidden' }}>
+    <header
+      id={id}
+      className={`${heroBackground}`}
+      style={{ position: "relative", overflow: "hidden" }}
+    >
       <video
         src="/images/hero/vh.webm"
         autoPlay
@@ -57,20 +61,20 @@ const Landing = ({ id, arrowAnimationReference }) => {
         muted
         playsInline
         style={{
-          position: 'absolute',
-          width: '100%',
-          height: '100%',
-          objectFit: 'cover',
+          position: "absolute",
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
           zIndex: -1,
           left: 0,
-          top: 0,
+          top: 0
         }}
       />
-      <Container className={heroContainer} style={{ position: 'relative', zIndex: 3 }}>
-        <Hero
-          introHeading={hero.introHeading}
-          introLeadIn={hero.introLeadIn}
-        />
+      <Container
+        className={heroContainer}
+        style={{ position: "relative", zIndex: 3 }}
+      >
+        <Hero introHeading={hero.introHeading} introLeadIn={hero.introLeadIn} />
       </Container>
       <NoSSR>
         <ArrowAnimation

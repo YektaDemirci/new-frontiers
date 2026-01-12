@@ -72,7 +72,7 @@
       "imageUrl": "/images/people/mALMEK.jpeg",
       "email": "mohammed.almekhlafi@lab.edu"
     },
-    { 
+    {
       "id": 8,
       "name": "Lorem IPSUM",
       "role": "alumni",
@@ -82,14 +82,13 @@
       "email": ""
     },
     {
-        "id": 9,
-        "name": "Khaled HUMADI",
-        "role": "postdoc",
-        "researchTopic": "Natural Language Processing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
-        "imageUrl": "/images/people/kHUM.jpeg",
-        "email": ""
-
+      "id": 9,
+      "name": "Khaled HUMADI",
+      "role": "postdoc",
+      "researchTopic": "Natural Language Processing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "imageUrl": "/images/people/kHUM.jpeg",
+      "email": ""
     }
   ]
 }

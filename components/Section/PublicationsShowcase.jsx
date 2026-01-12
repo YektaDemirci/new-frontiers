@@ -22,8 +22,8 @@ const PublicationsShowcase = () => {
     };
 
     handleResize(); // Set initial value
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   const showcasePublications = publications.publicationList.slice(0, numToShow);
@@ -33,11 +33,11 @@ const PublicationsShowcase = () => {
       <div className={publicationsDiv}>
         <div className={publicationsContainer}>
           {showcasePublications.map((publication, index) => {
-            const displayAuthors = publication.authors.map(author => 
-              author === '...' ? 'et al.' : author
+            const displayAuthors = publication.authors.map((author) =>
+              author === "..." ? "et al." : author
             );
             const authorList = displayAuthors.join(", ");
-            
+
             const content = (
               <div className={compactCard}>
                 <h4 className={compactTitle}>{publication.title}</h4>
@@ -65,10 +65,7 @@ const PublicationsShowcase = () => {
             return <div key={`${publication.title}-${index}`}>{content}</div>;
           })}
         </div>
-        <BlogShowcaseButton
-          link="/publications"
-          text="View All Publications"
-        />
+        <BlogShowcaseButton link="/publications" text="View All Publications" />
       </div>
     </Section>
   );
